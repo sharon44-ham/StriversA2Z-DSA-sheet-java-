@@ -1,0 +1,10 @@
+0
+Invalid day
+2
+Tuesday
+6
+Staurday
+7
+Sunday
+8
+Invalid day

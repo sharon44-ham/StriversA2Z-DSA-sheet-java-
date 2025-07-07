@@ -1,0 +1,18 @@
+4: 
+   A    
+  ABA   
+ ABCBA  
+ABCDCBA 
+5: 
+    A     
+   ABA    
+  ABCBA   
+ ABCDCBA  
+ABCDEDCBA 
+6: 
+     A      
+    ABA     
+   ABCBA    
+  ABCDCBA   
+ ABCDEDCBA  
+ABCDEFEDCBA 
