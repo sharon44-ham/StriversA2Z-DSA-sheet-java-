@@ -95,8 +95,8 @@ To automate compilation + execution with input/output redirection:
 
     Customize one tasks.json and just switch file paths when testing different files
 
-**    📅 Updated regularly as I move through the sheet.
-**
+     📅**Updated regularly as I move through the sheet.**
+
 🤝 Contributing & Forking
 
 Feel free to fork and use this setup for your own DSA practice. Contributions and improvements welcome!
