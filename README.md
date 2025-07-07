@@ -1,4 +1,4 @@
-# 🚀 JavaRunner — Striver A2Z DSA (Step 1: Basics) Setup
+# 🚀 JavaRunner — Striver A2Z DSA (Step 1: Basics) Setup and Problems(updating as I keep solving)
 
 This repository contains my Java solutions for **Step 1 of the Striver A2Z DSA Sheet**, organized **topic-wise**.
 
