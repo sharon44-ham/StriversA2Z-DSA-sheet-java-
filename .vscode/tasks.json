@@ -8,7 +8,7 @@
       "args": [
         "-d",
         ".",
-        "StriversA2Z_step1_basics/math_basics/reversedigits.java"
+        "StriversA2Z_step1_basics/math_basics/gcd.java"
       ],
       "options": {
         "cwd": "${workspaceFolder}"
@@ -21,7 +21,7 @@
       "command": "bash",
       "args": [
         "-c",
-        "java StriversA2Z_step1_basics.math_basics.reversedigits < StriversA2Z_step1_basics/math_basics/input.txt > StriversA2Z_step1_basics/math_basics/output.txt"
+        "java StriversA2Z_step1_basics.math_basics/gcd < StriversA2Z_step1_basics/math_basics/input.txt > StriversA2Z_step1_basics/math_basics/output.txt"
       ],
       "options": {
         "cwd": "${workspaceFolder}"
